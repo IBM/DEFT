@@ -2,14 +2,10 @@
 <p align="center"> <a href="https://bharat-runwal.github.io/" target="_blank id="website">Bharat Runwal</a><sup>1</sup>, Tejaswini Pedapati<sup>2</sup>, <a href="https://sites.google.com/site/pinyuchenpage/home" target="_blank id="website">Pin-Yu Chen</a><sup>2</sup></p>
 <p align="center"><sup>1</sup> Independent Researcher,<sup>2</sup> IBM Research</p>
 
-<p align="center">
-  <a href="https://arxiv.org/pdf/2208.01853.pdf" alt="ArXiv">
+<!-- <p align="center">
+  <a href="https://arxiv.org/pdf/22s08.01853.pdf" alt="ArXiv">
         <img src="https://img.shields.io/badge/Preprint-arXiv-blue.svg" /></a>
-  <!-- <a href="https://colab.research.google.com/github/Bharat-Runwal/RWL-GNN/blob/main/Demo_RWL_GNN.ipynb" alt="Demo">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
-  <a href="https://docs.google.com/presentation/d/1qDS09BlPXeO1VtDIVmji1r8ZzpUY4NmujLRa6Aw9QiQ/edit?usp=sharing" alt="Slides">
-        <img src="https://img.shields.io/badge/Slides-SPCOM-yellow.svg" /></a> -->
-</p>
+</p> -->
 
 <p align="center">
   <img src ="imgs/DEFT.png"  width="1000"/>
